@@ -11,6 +11,12 @@
   </p>
 </p>
 
+# 데모 페이지
+[바로가기](https://guymoon.github.io/js-vending-machine/)
+
+# 웹 vscode 환경
+[바로가기](https://github.dev/guymoon/js-vending-machine)
+
 # 이번 미션 주안점 
 - MVC 패턴 적용
 - 요구 사항에는 없지만 추가적인 예외 사항 생각해서 반영해 보기
@@ -28,16 +34,9 @@ model.setMoney(1000)  // good
 ```
 이렇게 하니까 model 데이터를 조금 더 일관되게 관리 할 수 있었습니다. 
 
-
 # 아쉬웠던점 
 - 테스트 스펙이 6개 정도 나왔는데 따로 따로 했을 때는 모두 문제 없었습니다. 그러나 6개 스펙을 모두 한번에 돌리니 깨지는 것들이 몇 가지 있어 아쉬웠습니다. 테스트 분리 등 테스트에 대해 더 학습이 필요할 것 같습니다. 
 - 네이밍이 많이 어려웠습니다. 한번 꼬이기 시작하니 계쏙 꼬이는데 이 부분을 개발 시작 전에 잡고 갈 필요가 있겠다고 느꼈습니다. 
-
-# 데모 페이지
-[바로가기](https://guymoon.github.io/js-vending-machine/)
-
-# 웹 vscode 환경
-[바로가기](https://github.dev/guymoon/js-vending-machine)
 
 # 테스트 내역
 테스트한 내역은 아래와 같습니다!
